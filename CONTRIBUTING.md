@@ -61,7 +61,7 @@ This will create a new file called `data.dvc`. This file will contain the inform
 Create a new branch for your work. Use your name.
 
 ```bash
-git checkout -b yourname
+git checkout -b yourname_dev
 ```
 
 ### 6. Add Your Name to the README
@@ -81,13 +81,13 @@ Once you've made your changes and committed them, push your branch to the remote
 ```bash
 git add .
 git commit -m "Add your message here"
-git push origin yourname/feature-name
+git push origin yourname_dev
 ```
 
 You might be prompted to set up upstream repository. If so, do it by running the code given in terminal or by running the following command:
 
 ```bash
-git remote add upstream https://github.com/yourusername/Music-Industry-Insights.git
+git push --set-upstream origin yourname_dev
 ```
 
 Then, go to the GitHub repository and create a pull request (PR) from your branch to the `main` branch. Make sure to provide a clear description of the changes you've made.
