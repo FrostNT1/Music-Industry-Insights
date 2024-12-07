@@ -122,4 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, please open an issue or contact the team.
 
 Shivam Tyagi - st.shivamtyagi.01@gmail.com | FrostNT1
+
 Beema Rajan - beema.rajan@vanderbilt.edu | BeemaRajan
+
+Zhiqi Zhang - zhiqi.zhang@vanderbilt.edu | zhiqi-zhang233
