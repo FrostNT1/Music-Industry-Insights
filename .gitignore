@@ -6,5 +6,5 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .venv/
-raw_data/camille/songs_with_attributes_and_lyrics.csv
-raw_data/camille/songs_with_lyrics_and_timestamps.csv
+songs_with_attributes_and_lyrics.csv
+songs_with_lyrics_and_timestamps.csv
