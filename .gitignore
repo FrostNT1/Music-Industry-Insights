@@ -9,4 +9,3 @@ __pycache__/
 songs_with_attributes_and_lyrics.csv
 songs_with_lyrics_and_timestamps.csv
 .cache/
-universal_top_spotify_songs.csv
